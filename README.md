@@ -180,3 +180,10 @@ Projeto acadêmico desenvolvido para a disciplina de Banco de Dados.
 # 📄 Licença
 
 Este projeto possui finalidade exclusivamente educacional.
+
+
+
+https://github.com/user-attachments/assets/3ce68914-f605-4bbc-90b4-5f50537137be
+
+
+
